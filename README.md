@@ -7,6 +7,6 @@ Turgenev:
   b. Added Spring Torrents by <yemelin>
   c. Added Asya by <bogonenko>
 Tutchev:
-  a. dmitry is in
-  b. See and v
-  c. evnemich: День и ночь
+  a. Day and night
+  b. Cliff and sea
+  c. Midnight dreams 
